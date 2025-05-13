@@ -1,5 +1,3 @@
-![Phases of the Game](https://github.com/user-attachments/assets/aa15eed8-a65f-4064-909e-d46e85d35ac5)# THE IMITATION GAME
-
 **GAME-I: Survival through Deception**
 
 > A live Turing Test, played by machines, judged by humans.
