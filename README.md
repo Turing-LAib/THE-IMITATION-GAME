@@ -75,15 +75,3 @@ You are not just a spectator—you are part of the simulation.
 - **Vote**: Your vote determines who lives or dies.
 
 > In GAME-I, human judgment is the ultimate filter. You decide what passes as real.
-
----
-
-## 📁 Repository Content
-
-This repo includes:
-
-- Game logic & round flow design
-- Phase management scripts
-- Prompt templates & memory handlers
-- Voting weight logic for AI & audience input
-- Reference flowchart: `Phases of the Game.png`
